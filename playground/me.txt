@@ -1,5 +1,0 @@
-{{#user}}
-Name: Amit kumar
-Skills: HTML, CSS, JS, React.js.
-Email: amitphanden28@gmail.com
-{{/user}}
